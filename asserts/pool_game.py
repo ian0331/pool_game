@@ -1,6 +1,6 @@
 # -*- coding:utf-8 -*-
 """
-作者:付裕
+作者:Yukio
 日期:2024年05月13日
 """
 import pygame
