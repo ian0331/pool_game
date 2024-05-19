@@ -42,6 +42,7 @@ create_cushions:初始化所有缓冲区。
 球杆的角度和位置会根据鼠标位置动态更新，提供直观的操作感。
 ## 游戏结束和得分:
 当生命值为0或所有球袋中时，显示游戏结束的信息，并提供重新开始或退出的选项。
-![image](https://github.com/Yukio0331/pool_game/assets/137742675/7d28fe30-2655-4333-9a88-036f26877fdf)
-![image](https://github.com/Yukio0331/pool_game/assets/137742675/c4ff2934-60ae-4f81-9581-fc9a93e00ead)
-![image](https://github.com/Yukio0331/pool_game/assets/137742675/20b4aef0-6cf9-4739-8c00-546c2e89d0cf)
+![image](https://github.com/Yukio0331/pool_game/assets/137742675/ba80728e-e3b0-4f89-92eb-b2d7d804802e)
+![image](https://github.com/Yukio0331/pool_game/assets/137742675/42c7ef33-29b9-4ead-a5e5-a6b0d62a132d)
+![image](https://github.com/Yukio0331/pool_game/assets/137742675/e3ffa662-a3e6-43fc-a5c8-5b6af92ee9a3)
+
